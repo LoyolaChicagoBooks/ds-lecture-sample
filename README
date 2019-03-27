@@ -1,0 +1,8 @@
+This is the Markdown version of the corresponding chapter at https://ds.cs.luc.edu.
+
+You need to have Pandoc (pandoc) installed on your computer. See https://pandoc.org for details on how to install. Binaries are available for all platforms. Please make sure you use a current version.
+
+The script `build.sh` shows how to generate reStructuredText (.rst) and HTML (.html). 
+Both of these formats must build successfully to include your contribution. The final submission will be converted to reStructuredText so we can use Sphinx to build your chapter.
+
+More details to come.
